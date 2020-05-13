@@ -37,7 +37,7 @@ Es una aplicación de mensajería para teléfonos inteligentes, en la que se env
 ## Webex by Juan Carlos Sellan
 
 ## FaceTime by Jesus Jacome
--El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
+El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas 
 para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. 
 Entre estas herramientas se encuentra Facetime, una aplicación de mensajería que incluye video, mansajes de texto, 
 voz y más.
